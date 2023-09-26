@@ -1,0 +1,24 @@
+body{
+  background-color:orange;
+}
+
+#container {
+  display: felx;
+  flex-direction: column;
+}
+
+p {
+  Color: #a60c0c;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#helo {
+  Color: blue;
+  text-align: center;
+}
+
+.welcome {
+  Color: green;
+   text-align: center;
+}
